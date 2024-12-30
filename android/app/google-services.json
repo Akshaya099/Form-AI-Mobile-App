@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "404935256728",
+    "project_id": "formai-b1445",
+    "storage_bucket": "formai-b1445.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404935256728:android:c333db54520080ae257eed",
+        "android_client_info": {
+          "package_name": "com.example.w1_form"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATmHEDsFubx3Zok02Du3voZorrRXPO8lY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
